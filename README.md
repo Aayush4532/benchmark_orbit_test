@@ -28,3 +28,7 @@ go run ./cmd/tests
 ```
 
 The benchmark will execute the complete integration flow and generate the performance report automatically.
+
+<p>
+  <img src = "./readme.png" />
+</p>
